@@ -45,3 +45,6 @@ To stay current, make it a habit to read blogs, subscribe to newsletters, and at
 - "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rick Cook
 
 This quote highlights the ongoing challenge for programmers to create robust and user-friendly software, while also acknowledging the unpredictable nature of users and the potential for unexpected issues to arise. It serves as a reminder to always strive for improvement and to be prepared for the unexpected in the ever-evolving field of programming.
+
+# 2023-11-27
+- "Today's programming wisdom is to write code that is easy to understand and maintain. This means using clear and concise variable names, writing comments to explain complex logic, and breaking down large functions into smaller, more manageable ones. It also means following established coding standards and best practices, such as using appropriate data structures and algorithms, and avoiding unnecessary complexity. By prioritizing readability and maintainability, you'll make your code easier to work with not only for yourself, but also for your colleagues and future developers who may need to modify or extend it."
