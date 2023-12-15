@@ -115,3 +115,6 @@ Optimizing code before it's necessary can lead to overly complex and difficult-t
 3. Practice coding challenges: Solving coding problems and participating in programming competitions can improve your problem solving and debugging skills. Sites like LeetCode, HackerRank, Project Euler, Codeforces, provide a variety of challenges to test your skills and knowledge.  
 4. Attend workshops and conferences: Attending workshops, meetups, conferences, etc., can help expand your network, learn from industry experts, discover new tools, technologies, best practices, trends, challenges, case studies, success stories, industry updates, new job opportunities, interview tips, salary trends etc
 5. Code regularly: Continuously practicing coding helps improve efficiency and accuracy. Set aside time each day or week to work on personal projects, contribute to open-source repositories, read and understand code, implement new techniques, tools and technologies.
+
+# 2023-12-15
+- "Keep it simple, stupid!"
