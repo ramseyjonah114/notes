@@ -126,3 +126,8 @@ This quote reminds us that optimizing code before it's necessary can lead to com
 
 # 2023-12-17
 - Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. By prioritizing tasks based on their importance and urgency, you can make better use of your time and resources. Planning ahead can help to avoid last-minute emergencies and ensure that you have enough time to complete all of the necessary tasks. Finally, staying organized by using version control, comment, code, writing clean and concise code can save you time in the long run and make your code easier to maintain and expand.
+
+# 2023-12-18
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, identify the most important tasks and focus on them first. By prioritizing your work, you can ensure that you are making progress on the right things.
+
+Second, planning ahead is crucial. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break the project down into smaller, manageable steps, so that as you work through the process, each step builds upon the last. Planning ahead will also help to avoid getting stuck or spending too much time on a particular aspect of the code.
