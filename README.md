@@ -300,3 +300,6 @@ To be successful as a programmer, you should also have a deep understanding of c
 
 # 2024-01-24
 - "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In coding, always strive to write clean, simple, and maintainable code. It's not just about getting it to work; it's also about ensuring that others (and your future self) can understand and modify it easily. Remember that complex systems arise from simple, well-designed components. So, whether you're tackling a small script or a large-scale project, favor readability and clarity over unnecessary complexity."
+
+# 2024-01-25
+- "Keep it simple, stupid!"
