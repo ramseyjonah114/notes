@@ -403,3 +403,15 @@ In other words, as a programmer, don't waste time trying to optimize parts of yo
 First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project goals. You can use the MoSCoW method to categorize your task: Must have, Should have and Could have. Must-have tasks should be completed first as they are essential to your overall project success. Should-haves are nice-to-havenon-essential tasks that can be worked on if time permits. Could-has are tasks you may not have time to complete. 
  其次，明智地规划你的时间。在编程时，合理安排时间至关重要。你可以使用番茄工作法（Pomodoro Technique）来提高效率。这种方法是指，将工作时间分为25分钟的工作区段，然后休息5分钟的区段的循环。每完成四个工作区后，休息15-30分钟。这有助于保持注意力和避免疲劳。
  最后，保持组织。使用版本控制系统（如Git）和项目管理工具（如同盟或Jira）可以帮助你保持代码和组织有序。定期备份你的代码，并确保你有足够的注释，以便在需要时可以轻松地理解和修改代码。通过遵循这些最佳实践，你将能够更有效地编程并实现更高的生产力。
+
+# 2024-02-15
+- Today's programming wisdom is to always prioritize code readability and maintainability. This means writing concise, well-structured, and easy-to-understand code that can be easily modified and expanded as needed. To achieve this, follow these best practices:
+
+1. Use clear variable, function,and class names that accurately represent their purpose and functionality.
+2. Organize your code into logical, modular blocks that follow the Single Responsibility Principle (SRP).This means each block should perform one and only one task. 
+3. Follow the DRY (Don't Repeat Yourself) principle by avoiding duplicating code and reusing existing code wherever possible. You can achieve DR Y by using functions, methods, classes, modules, or libraries.  
+4. Write concise and expressive comments that explain the purpose, logic, assumptions, constraints, etc. of the code. Comments should be written in plain language and should not be overly verbose. They should also be updated whenever the underlying code changes.   
+5. Avoid using global variables and instead pass data and parameters as necessary. Global variables can make code hard to understand and modify.    
+6. Always use version control systems (such as Git) to track and manage code modifications. It helps to keep a clean and organized codebase and makes it easier to collaborate with others.     
+7. Perform code reviews regularly to identify and fix potential issues, improve code quality,follow best practice, learn from each other, reduce technical debt, increase team morale,etc.      
+8. Continuously learn and stay up- to-date with new programming languages, frameworks, libraries, tools, best-practices, design patterns, algorithms, data structures, security, performance optimization, software architecture,software engineering, project management, team collaboration, soft skills, business acumen, leadership, communication, time management.
