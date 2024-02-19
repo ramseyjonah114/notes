@@ -424,3 +424,14 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 
 # 2024-02-18
 - "Keep it simple, stupid!"
+
+# 2024-02-19
+- Today's programming wisdom is to always prioritize code readability and maintainability. This means writing concise, well-structured, and easy-to-understand code that can be easily modified and expanded upon as needed. To achieve this, follow these best practices:
+
+1. Use clear variable, function,and class names that reflect their purpose and make them easily identifiable.
+2. Organize your code into logical, modular blocks that follow the Single Responsibility Principle (SRP).This means each block should perform one and only one task. 
+3. Minimize global variables and use local variables instead. Global variables can make code harder to understand and modify.  
+4. Avoid hardcoding values and prefer using constants or environment variables. Constants can help prevent typos and ensure that values are not accidentally modified. Environment variables allow you to easily update values without having to modify the code.   
+5. Write concise and readable comments that explain the purpose of code blocks and provide context for the reader. Comments can also serve as a reminder for you when you come back to thecode later.    
+6. Follow coding conventions and standards in your preferred programming language. Conventions can vary between languages and communities, but following them can improve code consistency and readibility.     
+7. Continuously learn and stay up-do-date with new programming languages, frameworks, tools, best-practices, etc. It'll help you become a better programmer and adapt to new challenges.
